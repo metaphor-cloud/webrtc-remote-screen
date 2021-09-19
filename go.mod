@@ -12,17 +12,6 @@ require (
 	github.com/nfnt/resize v0.0.0-20180221191011-83c6a9932646
 	github.com/pion/sdp v1.3.0
 	github.com/pion/webrtc/v2 v2.1.0
-	github.com/pion/datachannel
-	github.com/pion/dtls
-	github.com/pion/ice
-	github.com/pion/logging
-	github.com/pion/rtcp
-	github.com/pion/rtp
-	github.com/pion/rtp/codecs
-	github.com/pion/sctp
-	github.com/pion/sdp/v2
-	github.com/pion/srtp
-	github.com/pion/transport/packetio
 	golang.org/x/sync v0.0.0-20190227155943-e225da77a7e6 // indirect
 	golang.org/x/text v0.3.1-0.20180807135948-17ff2d5776d2 // indirect
 )
